@@ -11,3 +11,6 @@ Perkenalan mutations, cara merubah data
 
 ### 212. Passing Data to Mutations with Payloads
 Mempass data ke mutations dengan payloads
+
+### 213. Introducing Getters - A Better Way Of Getting Data
+Metode getter yang lebih baik
