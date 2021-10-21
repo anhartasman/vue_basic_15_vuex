@@ -14,3 +14,6 @@ Mempass data ke mutations dengan payloads
 
 ### 213. Introducing Getters - A Better Way Of Getting Data
 Metode getter yang lebih baik
+
+### 214. Running Async Code with Actions
+Mempelajari async
