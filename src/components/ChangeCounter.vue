@@ -12,7 +12,7 @@ export default {
         // }
         // dua cara menggunakan mapActions
         // ...mapActions(['increment','increase'])
-        ...mapActions({
+        ...mapActions('numbers',{
             inc:'increment',
             increase:'increase'
         })

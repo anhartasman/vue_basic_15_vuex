@@ -32,3 +32,6 @@ Mengatur banyak modul store
 
 ### 219. Understanding Local Module State
 Mempelajari state pada modul lokal
+
+### 220. Namespacing Modules
+memberi namespacing pada modul
