@@ -35,3 +35,6 @@ Mempelajari state pada modul lokal
 
 ### 220. Namespacing Modules
 memberi namespacing pada modul
+
+### 221. Structuring Vuex Code & Files
+struktur file vuex
