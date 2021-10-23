@@ -26,3 +26,6 @@ Menggunakan helpers
 
 ### 217. Example: Adding More State
 Contoh tambahan tentang state
+
+### 218. Organizing your Store with Modules
+Mengatur banyak modul store
