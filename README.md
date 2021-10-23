@@ -29,3 +29,6 @@ Contoh tambahan tentang state
 
 ### 218. Organizing your Store with Modules
 Mengatur banyak modul store
+
+### 219. Understanding Local Module State
+Mempelajari state pada modul lokal
